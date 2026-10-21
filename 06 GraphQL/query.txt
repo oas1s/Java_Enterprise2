@@ -1,0 +1,19 @@
+{
+    "data": {
+        "getAllBooks": [
+            {
+                "id": "1",
+                "title": "11",
+                "author": "1"
+            },
+            {
+                "id": "2",
+                "title": "2",
+                "author": "22"
+            }
+        ],
+        "getBookById": {
+            "author": "1"
+        }
+    }
+}
